@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christiantomato
 - 👀 I’m interested in: Learning
 - 🌱 I’m currently learning: Swift, HTML
-- 📫 How to reach me: @christianntamayo@gmail.com
+- 📫 How to reach me: christianntamayo@gmail.com
 
 <!---
 christiantomato/christiantomato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
