@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiantomato&label=Profile%20views&color=0e75b6&style=flat" alt="christiantomato" /> </p>
 
-- 🌱 I’m currently learning **to have a will to live**
+- 🌱 I’m currently learning C and compilers. 
 
 - 📫 How to reach me **christianntamayo@gmail.com**
 
