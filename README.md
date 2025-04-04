@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on [tomat0](https://github.com/christiantomato/tomat0)
 
-- 📫 How to reach me **christianntamayo@gmail.com**
+- 📫 How to reach me **ctamayo@uwo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
