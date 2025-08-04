@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Christian Tamayo</h1>
 <h3 align="center">Math and Computer Science Student at Western University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christiantomato&label=Profile%20views&color=0e75b6&style=flat" alt="christiantomato" /> </p>
-
 - 🌱 I’m currently working on [tomat0](https://github.com/christiantomato/tomat0)
 
 - 📫 How to reach me **ctamayo@uwo.ca**
