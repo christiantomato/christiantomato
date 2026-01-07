@@ -1,4 +1,4 @@
-# Hi 👋, I'm Christian Tamayo
+# Hi, I'm Christian Tamayo
 
 ### Math and Computer Science Student at Western University
 
@@ -6,9 +6,7 @@
 
 - 📫 How to reach me **ctamayo@uwo.ca**
 
-- 👨‍💻 All of my projects are available at **[https://christiantomato.github.io/My-Website](https://christiantomato.github.io/My-Website)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1VnQ-kBujJ3-OtZEQ3doMJ6-UQGSrdY4Q/view?usp=sharing](https://drive.google.com/file/d/1VnQ-kBujJ3-OtZEQ3doMJ6-UQGSrdY4Q/view?usp=sharing)**
+- 📄 Resume: **[https://drive.google.com/file/d/1VnQ-kBujJ3-OtZEQ3doMJ6-UQGSrdY4Q/view?usp=sharing](https://drive.google.com/file/d/1VnQ-kBujJ3-OtZEQ3doMJ6-UQGSrdY4Q/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
