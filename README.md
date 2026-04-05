@@ -1,4 +1,4 @@
-# Christian Tamayo
+# Christian Tamayo, Full Stack Developer
 
 ### Math and Computer Science Student at Western University
 
